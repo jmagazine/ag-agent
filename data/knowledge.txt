@@ -1,0 +1,30 @@
+# Fertilizer Basics
+# From Cornell University tutorials
+
+## Basic Fertilizer Materials
+Fertilizers are blends of basic materials with N-P2O5-K2O analysis.
+
+Common materials:
+- Anhydrous Ammonia: 82-0-0, used for sidedressing N in corn.
+- Urea: 46-0-0, topdressed on grasses, can cause high pH near seed.
+- Ammonium Nitrate: 33-0-0, for topdressing.
+- Ammonium Sulfate: 21-0-0 24-S, mild N source, reduces soil pH.
+- Diammonium Phosphate (DAP): 18-46-0, in blends, can cause high pH near seed.
+- Monoammonium Phosphate (MAP): 11-52-0, easy on seeds.
+- Muriate of Potash: 0-0-60, for topdressing K.
+
+Common blends: 20-10-10, 20-20-0, 10-20-20, 15-15-15, 19-19-19, etc.
+
+## Crop Nutrient Needs
+For corn: Typically 110 lbs N/acre, 40 lbs P2O5/acre, 50 lbs K2O/acre.
+- Starter: 25 lbs each N, P2O5, K2O in band (e.g., 15-15-15).
+- Sidedress: Additional N if needed, based on PSNT.
+- Avoid >30 lbs N from urea or >30 lbs P2O5 from DAP in band to prevent injury.
+
+For perennial grasses: 225 lbs N/acre, split applications.
+- Topdress with urea.
+
+Guidelines:
+- Band starter 2" below and 2" to side of seed.
+- No more than 80-100 lbs/acre N+K2O in band to avoid salt injury.
+- Use PSNT for sidedress decisions.
